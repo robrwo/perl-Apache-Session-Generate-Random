@@ -7,6 +7,8 @@ use warnings;
 
 use Crypt::SysRandom ();
 
+# RECOMMEND PREREQ:  Crypt::SysRandom::XS
+
 our $VERSION = '0.001000';
 
 # ABSTRACT: use system randomness for generating session ids
