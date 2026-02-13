@@ -47,4 +47,25 @@ sub validate {
     die "Invalid session ID: " . $session->{data}->{_session_id};
 }
 
+=head1 SEE ALSO
+
+L<Apache::Session>
+
+L<Crypt::SysRandom>
+
+=head1 prepend:SUPPORT
+
+Only the latest version of this module will be supported.
+
+This module should work on very old Perl versions, such as v5.6.0.
+However, only Perl versions released in the last ten years will be supported.
+
+=head2 Reporting Bugs and Submitting Feature Requests
+
+=head1 append:SUPPORT
+
+If the bug you are reporting has security implications which make it inappropriate to send to a public issue tracker,
+then see F<SECURITY.md> for instructions how to report security vulnerabilities.
+
+
 1;
