@@ -82,8 +82,6 @@ feature.
 If the bug you are reporting has security implications which make it inappropriate to send to a public issue tracker,
 then see `SECURITY.md` for instructions how to report security vulnerabilities.
 
-1;
-
 # SOURCE
 
 The development version is on github at [https://github.com/robrwo/perl-Apache-Session-Generate-Random](https://github.com/robrwo/perl-Apache-Session-Generate-Random)
