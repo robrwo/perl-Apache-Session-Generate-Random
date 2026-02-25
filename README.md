@@ -25,6 +25,8 @@ Changes for version 0.002000 (2026-02-25)
 
 - Enhancements
     - Added Apache::SessionX::Generate::Random for use with Apache::SessionX.
+- Tests
+    - Removed author clean namespace test.
 
 See the `Changes` file for more details.
 
