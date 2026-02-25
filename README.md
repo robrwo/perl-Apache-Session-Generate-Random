@@ -19,6 +19,15 @@ tie %sessions, 'Apache::Session::Flex', $id, {
 
 This module extends [Apache::Session](https://metacpan.org/pod/Apache%3A%3ASession) to create secure random session ids using the system's source of randomness.
 
+# RECENT CHANGES
+
+Changes for version 0.002000 (2026-02-25)
+
+- Enhancements
+    - Added Apache::SessionX::Generate::Random for use with Apache::SessionX.
+
+See the `Changes` file for more details.
+
 # REQUIREMENTS
 
 This module lists the following modules as runtime dependencies:

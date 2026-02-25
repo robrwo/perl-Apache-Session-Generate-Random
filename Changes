@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}:
 
 {{$NEXT}}
+  [Enhancements]
+  - Added Apache::SessionX::Generate::Random for use with Apache::SessionX.
 
 0.001000  2026-02-14 00:03:12+00:00 Europe/London
   - Initial release.
