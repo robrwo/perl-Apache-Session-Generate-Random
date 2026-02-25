@@ -36,7 +36,6 @@ on 'develop' => sub {
   requires "Test2::V0" => "0";
   requires "Test::CPAN::Changes" => "0.19";
   requires "Test::CVE" => "0.11";
-  requires "Test::CleanNamespaces" => "0.15";
   requires "Test::DistManifest" => "0";
   requires "Test::EOF" => "0";
   requires "Test::EOL" => "0";
