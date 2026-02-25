@@ -5,9 +5,9 @@ use 5.006;
 use strict;
 use warnings;
 
-use Crypt::SysRandom ();
+use Crypt::SysRandom 0.007 ();
 
-# RECOMMEND PREREQ:  Crypt::SysRandom::XS
+# RECOMMEND PREREQ:  Crypt::SysRandom::XS 0.010
 
 our $VERSION = '0.002001';
 

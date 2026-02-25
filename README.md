@@ -21,12 +21,10 @@ This module extends [Apache::Session](https://metacpan.org/pod/Apache%3A%3ASessi
 
 # RECENT CHANGES
 
-Changes for version 0.002000 (2026-02-25)
+Changes for version 0.002001 (2026-02-25)
 
-- Enhancements
-    - Added Apache::SessionX::Generate::Random for use with Apache::SessionX.
-- Tests
-    - Removed author clean namespace test.
+- Bug Fixes
+    - Specify minimum versions of prerequisites.
 
 See the `Changes` file for more details.
 
@@ -34,7 +32,7 @@ See the `Changes` file for more details.
 
 This module lists the following modules as runtime dependencies:
 
-- [Crypt::SysRandom](https://metacpan.org/pod/Crypt%3A%3ASysRandom)
+- [Crypt::SysRandom](https://metacpan.org/pod/Crypt%3A%3ASysRandom) version 0.007 or later
 - [perl](https://metacpan.org/pod/perl) version 5.006 or later
 - [strict](https://metacpan.org/pod/strict)
 - [warnings](https://metacpan.org/pod/warnings)

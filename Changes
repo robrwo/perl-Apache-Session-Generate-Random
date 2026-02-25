@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}:
 
 {{$NEXT}}
+  [Bug Fixes]
+  - Specify minimum versions of prerequisites.
 
 0.002000  2026-02-25 17:08:49+00:00 Europe/London
   [Enhancements]
