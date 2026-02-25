@@ -7,7 +7,7 @@ use warnings;
 
 use Apache::Session::Generate::Random;
 
-our $VERSION = '0.002001';
+our $VERSION = '0.002002';
 
 # ABSTRACT: use system randomness for generating session ids
 
