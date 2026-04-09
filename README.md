@@ -25,6 +25,7 @@ Changes for version 0.002002 (2026-04-09)
 
 - Other
     - Added DOAP metadata to the distribution.
+    - Updated distribution metadata.
 
 See the `Changes` file for more details.
 

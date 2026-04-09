@@ -9,8 +9,10 @@
   <name>Apache-Session-Generate-Random</name>
   <shortdesc>use system randomness for generating session ids</shortdesc>
   <category rdfs:label="apache" />
-  <category rdfs:label="session" />
+  <category rdfs:label="random" />
   <category rdfs:label="security" />
+  <category rdfs:label="session" />
+  <category rdfs:label="urandom" />
   <developer>
     <foaf:Person>
       <foaf:name>Robert Rothenberg</foaf:name>
