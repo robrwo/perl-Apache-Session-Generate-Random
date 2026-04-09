@@ -21,10 +21,10 @@ This module extends [Apache::Session](https://metacpan.org/pod/Apache%3A%3ASessi
 
 # RECENT CHANGES
 
-Changes for version 0.002001 (2026-02-25)
+Changes for version 0.002002 (2026-04-09)
 
-- Bug Fixes
-    - Specify minimum versions of prerequisites.
+- Other
+    - Added DOAP metadata to the distribution.
 
 See the `Changes` file for more details.
 
