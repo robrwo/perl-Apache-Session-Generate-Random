@@ -21,13 +21,15 @@ This module extends [Apache::Session](https://metacpan.org/pod/Apache%3A%3ASessi
 
 # RECENT CHANGES
 
-Changes for version 0.002002 (2026-04-27)
+Changes for version 0.002002 (2026-05-02)
 
 - Documentation
     - Updated author email address.
 - Other
     - Added DOAP metadata to the distribution.
     - Updated distribution metadata.
+- Toolchain
+    - Stopped signing distributions, because Module::Signature is deprecated.
 
 See the `Changes` file for more details.
 
